@@ -1,0 +1,5 @@
+# **Compilación**
+javac -d out/production/lab2/  src/es/udc/juanporta/*.java
+
+# **Ejecución**
+java -cp out/production/lab2/ es.udc.juanporta.Main
